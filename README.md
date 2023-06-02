@@ -19,7 +19,7 @@ E --> F[Model Selection]
 F --> G[Model Training]
 G --> H[Model Evaluation]
 H --> I[Model Fine-tuning]
-I --> J[Deploy and Monitor]
 
 ```
 ## Recommendation
+- More information can be found in the python code
